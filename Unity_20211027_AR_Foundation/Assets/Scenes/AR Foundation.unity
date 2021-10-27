@@ -455,6 +455,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goSpawn: {fileID: 752007571437153604, guid: d66e68271775a2a4c8062061d5ad6069, type: 3}
   arRaycastManager: {fileID: 583325113}
+  traCamera: {fileID: 43216614}
+  speedLookAt: 3.5
 --- !u!1 &1916992914
 GameObject:
   m_ObjectHideFlags: 0
